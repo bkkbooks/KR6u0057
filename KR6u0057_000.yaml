@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0057/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 僧伽和尚欲入涅槃說六度經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2920.xml
+    old_id: T85n2920
+hash: sha256:160dc077da256784200215d1db69df2e7575da4930c265d55cdf115dd22afdd5

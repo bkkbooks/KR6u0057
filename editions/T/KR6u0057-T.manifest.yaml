@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6u0057/T/v1
+canonical_location: https://kanripo.org/bkk/KR6u0057/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 僧伽和尚欲入涅槃說六度經
+  identifiers:
+    krp: KR6u0057
+    cbeta: T85n2920
+    cbeta_old_id: T85n2920
+    authorityid: CA0004934
+    json_key: T2920
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2920.xml
+    old_id: T85n2920
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0057_000-T.yaml, hash: 'sha256:160dc077da256784200215d1db69df2e7575da4930c265d55cdf115dd22afdd5'}
+  - {seq: 1, filename: KR6u0057_001-T.yaml, hash: 'sha256:23fc033404b9625f8b7568f6e1506e700dfbd341e55f2e348f7f4620f0f473df'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6u0057_000-T.markers.yaml, hash: 'sha256:aba88a1e2efc32a28210ccd02bc1f842691e3c29bb3140cc3a6fba51735a8637'}
+  - {seq: 1, role: markers, filename: assets/KR6u0057_001-T.markers.yaml, hash: 'sha256:4a638792d361d1802a019b4e070603c11fbeabd43be9f529cddb5ab5a27c477c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0057_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 664
+  label: 僧伽和尚欲入涅槃說六度經
+  type: juan
+  level: 1
+hash: sha256:d243a8d3d7d9c31b5e7032830b664fe8d77e0b7375fa83956a0946b2192110ff
