@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0057_000.yaml, hash: 'sha256:160dc077da256784200215d1db69df2e7575da4930c265d55cdf115dd22afdd5'}
-  - {seq: 1, filename: KR6u0057_001.yaml, hash: 'sha256:e16abe5b7419b5cfe2cbbb399578d48b9f90fcdd1818fd80177e5b4f06161843'}
+  - {seq: 1, filename: KR6u0057_001.yaml, hash: 'sha256:23fc033404b9625f8b7568f6e1506e700dfbd341e55f2e348f7f4620f0f473df'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0057_001.markers.yaml, hash: 'sha256:f8740d96077fa13275339a2d6dc50be0b4561f96a76f38133c349a694b76389a'}
+  - {seq: 0, role: markers, filename: assets/KR6u0057_000.markers.yaml, hash: 'sha256:6374554238d98cece00aee3dafefef4af85b7adbb655dadb5e8c3ee612378168'}
+  - {seq: 1, role: markers, filename: assets/KR6u0057_001.markers.yaml, hash: 'sha256:2df939fc11ebf889d3e6e98caae7ff710a40392d2f728b6a0935ab56de77aa22'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 僧伽和尚欲入涅槃說六度經
   type: juan
   level: 1
-hash: sha256:fdc936e6d130a526d38221d454d0005cc73c36438cc67b25bf1b6f78ba15690a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d0297be987d0e75301889744411cc68844fbe27954edbf9a986572ddf1f24ae2
 editions:
 - short: T
